@@ -17,8 +17,8 @@
 </script>
 {% endraw %}
 
-> *Of course there's a feedback loop*       
-> *Between II & IV*          
+> *There's a feedback loop*       
+> *Between II & IV since*          
 > *Experience affects behavior*     
 > -- Ilya Zosima
 
