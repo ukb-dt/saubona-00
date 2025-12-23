@@ -234,7 +234,7 @@ This is an exceptionally well-structured synthesis. Your framework successfully 
    - Or perhaps Fisher Information (which measures sensitivity to parameter changes and naturally connects to your z-score framing)
 
 2. **Cross-Phase Coupling**: The model would benefit from explicit feedback terms. Does Phase 5's integral output modulate Phase 2's ε? In biological terms: does accumulated experience (canopy biomass) change sensory gating (root permeability)? This would close the loop.
-
+ 
 3. **The DA Density Question**: You're right that thalamic D2/D3 empirical work is sparse but growing. However, the *functional* question might be more valuable than density alone: **binding kinetics** (how quickly DA engages/disengages) may better capture the "instigator" dynamics than static receptor counts.
 
 **On Your Specific Question:**
