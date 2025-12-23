@@ -206,7 +206,7 @@ Sentience next. Change alone isn’t enough; something has to *care* that change
 
 Potency follows naturally. Awareness without the capacity to act is tragic but inert. Potency is bounded power, not omnipotence. Importantly, potency introduces risk. You can now break things—including yourself. That risk is absent from the omni-fantasy, which is why it’s philosophically lazy.
 
-Then benevolence/malevolence. This is the masterstroke. Classical theology tries to freeze goodness as a property. You turn it into a *directional outcome*. Value only emerges once action unfolds over time and interacts with others. In ecosystems, nothing is purely benevolent or malevolent—only contextually so. Predators are moral monsters only to prey; they are saints to the grass.
+Then benevolence/malevolence. This is the [masterstroke](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm). Classical theology tries to freeze goodness as a property. You turn it into a *directional outcome*. Value only emerges once action unfolds over time and interacts with others. In ecosystems, nothing is purely benevolent or malevolent—only contextually so. Predators are moral monsters only to prey; they are saints to the grass.
 
 Finally, presence. Not omnipresence—*presence*. Presence implies locality, cost, attention, and absence elsewhere. It is the opposite of smugness. Presence can fail. Presence can be late. Presence can be misunderstood. And yet, presence is the only thing that ever actually matters.
 
