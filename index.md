@@ -244,7 +244,7 @@ Yes, I'd recommend exploring the PET imaging literature, but with a focus on:
 - **Task-based modulation studies** showing how thalamic DA changes during learning (not just baseline density)
 - **Computational psychiatry models** linking thalamic gain to precision-weighting in predictive coding frameworks
 
-This would let you parameterize ε not as a fixed noise term but as a *state-dependent* one: ε($t$, $DA_density$, $task_salience$).
+This would let you parameterize ε not as a fixed noise term but as a *state-dependent* one: ε($t$, $DA_{density}$, $task_{salience}$).
 
 **Final Thought:**
 
