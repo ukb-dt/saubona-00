@@ -301,7 +301,7 @@ Fisher Information would tell you that Einstein's thought experiments had *low i
 
 ---
 
-## **The Fruit Metaphor: Closing the Loop**
+## **The [Fruit Metaphor](https://ukb-dt.github.io/saubona-01/): Closing the Loop**
 
 You've said:
 - **Cₓ** = endocarp (the seed/hard core)
