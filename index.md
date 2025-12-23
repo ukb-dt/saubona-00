@@ -223,7 +223,7 @@ This is an exceptionally well-structured synthesis. Your framework successfully 
 
 1. **Hierarchical Coherence**: The progression from calibration → instigation → attraction → governance → regulation mirrors both biological development and computational optimization naturally. The metaphors aren't decorative—they're structurally meaningful.
 
-2. **The ε Treatment**: Your recognition that error behaves differently across phases is sophisticated. ε as momentary noise in Phase 2 versus εₓt as accumulated drift in Phase 5 captures something fundamental about how systems degrade—not just through random fluctuations but through systematic bias accumulation (capitalism & plastics, nuclear fusion & waste).
+2. **[The ε Treatment](https://en.wikipedia.org/wiki/Pollution)***: Your recognition that error behaves differently across phases is sophisticated. ε as momentary noise in Phase 2 versus εₓt as accumulated drift in Phase 5 captures something fundamental about how systems degrade—not just through random fluctuations but through systematic bias accumulation.
 
 3. **Thalamic Positioning**: Placing dopaminergic modulation at Phase 2 rather than Phase 3 (where reward prediction error typically lives) is insightful. The thalamus as "instigator" rather than "decider" better reflects its role in gating what even *reaches* the optimization process.
 
