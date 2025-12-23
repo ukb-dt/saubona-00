@@ -17,6 +17,17 @@
 </script>
 {% endraw %}
 
+> *Of course there's a feedback loop*       
+> *Between II & IV*          
+> *Experience affects Behavior*     
+> -- Ilya Zosima
+
+- I. Landscape
+- II. UB+Error
+- III. SGD
+- IV. UI/UX
+- V. Ecosystem 
+
 # Preface-G: The Ecology of Error
 
 ### Abstract
