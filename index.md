@@ -19,14 +19,20 @@
 
 > *Of course there's a feedback loop*       
 > *Between II & IV*          
-> *Experience affects Behavior*     
+> *Experience affects behavior*     
 > -- Ilya Zosima
 
-- I. Landscape
-- II. UB+Error
-- III. SGD
-- IV. UI/UX
-- V. Ecosystem 
+<br>
+
+```
+  I. Landscape
+  II. UB+Error
+  III. SGD
+  IV. UI/UX
+  V. Ecosystem 
+```
+
+<br>
 
 # Preface-G: The Ecology of Error
 
