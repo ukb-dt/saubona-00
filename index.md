@@ -32,7 +32,7 @@ In your model, Phase 2 is defined as $E(t \mid x) + \epsilon$.. This represents 
 
 The thalamus is the "grand central station" of sensory information. While dopamine (DA) research usually focuses on the striatum, the thalamus contains significant D2/D3 receptor density, particularly in the **mediodorsal (MD)** and **intralaminar nuclei**.
 
-* **Signal Gating (The  Filter):** Thalamic DA modulates the "gain" of sensory transmission to the cortex. Higher receptor density allows for finer tuning of the  term. If DA density is dysregulated, the "noise" ($\epsilon$) overwhelms the "signal" $E(t|x)$, leading to phenomena like sensory flooding (seen in schizophrenia) or cognitive blunting.
+* **Signal Gating (The Filter):** Thalamic DA modulates the "gain" of sensory transmission to the cortex. Higher receptor density allows for finer tuning of the  term. If DA density is dysregulated, the "noise" ($\epsilon$) overwhelms the "signal" $E(t\mid x)$, leading to phenomena like sensory flooding (seen in schizophrenia) or cognitive blunting.
 * **The "Instigator" Role:** In your framework, DA density determines the system's sensitivity to new data. It dictates how "heavy" the loss function (Data + Loss) is weighed. High density suggests a system that is highly reactive to environmental shifts, potentially leading to faster "Root" growth but higher volatility.
 
 ### 2. Quality of Empirical Work
