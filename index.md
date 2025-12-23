@@ -75,8 +75,8 @@ $$
 
 | Phase | Label | Mathematical Focus | Organic Metaphor |
 | --- | --- | --- | --- |
-| **1** | Calibrator | $(E, x) + \epsilon$  | Soil/Seed |
-| **2** | Instigator | $E(t\mid x)$  | Roots (Thalamic Gating) |
+| **1** | Calibrator | $(E, x)$  | Soil/Seed |
+| **2** | Instigator | $E(t\mid x)  + \epsilon$  | Roots (Thalamic Gating) |
 | **3** | Attractor | Minimize Loss | Trunk (Stability) |
 | **4** | Governor | $\frac{dE_{\bar{x}}}{dt} \pm z\sigma$ | Branches (Dynamics) |
 | **5** | Regulator | $\int E_x dt + C$  | Canopy/Fruit (Value) |
@@ -425,7 +425,7 @@ Let's map it explicitly to the organic/dynamical model we built earlier, because
 
 - **Data (Wearables or other: UB - user behavior)** ≈ Phase 2 (Instigator / Roots): Real-world sensory stream + ε (thalamic gating noise). Wearables are the ultimate modern ε collector — accelerometers, HRV, sleep, location, app interactions capture moment-to-moment user behavior (UB) at high frequency. In high-z individuals (hallucinatory/creative spikes), this stream is noisier, more divergent, less filtered. JHU's own Accelerometry Resource / Wearables @ Hopkins initiatives are literally building infrastructure to wrangle exactly this kind of high-density behavioral data from free-living environments.
 
-- **+ loss → minimize** ≈ Phase 3 (Attractor / Trunk) + Phase 4 (Governor / Branches): Gradient descent on reality. The system (individual or collective) minimizes prediction error / loss between simulated expectation $E(t|x)$ and incoming UB data. In creative/genius modes, the loss landscape is rugged — big jumps, high volatility (Phase 4 $z$-scores), but when it converges, you get paradigm shifts. In schizophrenia overload, minimization fails → ε dominates → trunk breaks.
+- **+ loss → minimize** ≈ Phase 3 (Attractor / Trunk) + Phase 4 (Governor / Branches): Gradient descent on reality. The system (individual or collective) minimizes prediction error / loss between simulated expectation $E(t\mid x)$ and incoming UB data. In creative/genius modes, the loss landscape is rugged — big jumps, high volatility (Phase 4 $z$-scores), but when it converges, you get paradigm shifts. In schizophrenia overload, minimization fails → ε dominates → trunk breaks.
 
 - **UI/UX** ≈ The interface layer: How the minimized model gets expressed back into the world (writing, equations, art, code, products). This is the "digestible" output — the mesocarp that the marketplace can chew on. For Einstein/Joyce/Nash/Watson types, their high-ε hallucinations/insights get refined into UI/UX that feels revolutionary (relativity, stream-of-consciousness, game theory equilibria, DNA structure).
 
