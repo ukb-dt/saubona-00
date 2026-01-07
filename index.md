@@ -25,18 +25,18 @@
 <br>
 
 ```
-  I. Landscape
-  II. UB+Error
-  III. SGD
-  IV. UI/UX
-  V. Ecosystem 
+  I. Landscape/Energy
+  II. UB+Error/Data+Simulation
+  III. SGD/Power
+  IV. UI/Combinatorials
+  V. Ecosystem-UX/Work (PFC-Outsourced)
 ```
 
 <br>
 
 # Preface-G: The [Ecology](https://ukb-dt.github.io/saubona-01/) of Error
 
-### Abstract
+### [Abstract](https://ukb-dt.github.io/post-metaphor-00/)
 
 This project documents the development of **00-G**, a dynamic systems framework that bridges neuro-computational theory, calculus-based dynamics, and organic metaphors. It treats intelligence not as a static property, but as a pipeline from **Initial Conditions (Soil)** to **Value Realization (Fruit)**.
 
